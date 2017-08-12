@@ -8,3 +8,5 @@
     4 缓存防穿透和雪崩
 
 ### redis常用功能php封装
+
+### reids持久化 -- RDB和AOF

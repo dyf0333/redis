@@ -10,3 +10,7 @@
 ### redis常用功能php封装
 
 ### reids持久化 -- RDB和AOF
+
+### redis哨兵 sentinel
+
+    reids的哨兵机制是redis集群及其HA的保证方式
